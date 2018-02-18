@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1510870332 source:e:\codeblocks\practicando\parcialteoria\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1511008745 source:e:\codeblocks\practicando\parcialteoria\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1496883878 e:\codeblocks\practicando\parcialteoria\arraylist.h
+

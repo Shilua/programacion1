@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1511008745 source:e:\codeblocks\practicando\sortejemplo\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1496883878 e:\codeblocks\practicando\sortejemplo\arraylist.h
+
+1518738529 source:e:\codeblocks\practicando\sortejemplo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1518738746 source:e:\codeblocks\practicando\sortejemplo\funciones.c
+	"funciones.h"
+
+1518738834 e:\codeblocks\practicando\sortejemplo\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
